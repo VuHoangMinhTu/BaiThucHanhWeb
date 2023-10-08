@@ -1,0 +1,16 @@
+/* CSS cho container chứa video */
+.img-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+/* CSS cho video */
+#anh{
+  width: auto;
+  height: auto;
+  object-fit: cover; /* Để video không bị bò viền khi xoay */
+  border-radius: 100%;
+}
