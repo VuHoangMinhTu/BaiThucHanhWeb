@@ -1,14 +1,14 @@
-﻿.formDangKy{
+.formDangKy{
   width: 759px;
   height: 689px;
   background-color: hsl(0deg 0% 90.2%);
-  margin: 20px auto;
+ margin: 20px auto;
 }
 .content{
   width: 98%;
   height: 98%;
   background-color: hsl(0deg 0% 100%);
-  margin: 0 auto;
+margin: 0 auto;
   position: relative;
   top: 5px;
   border-radius: 5px;
@@ -65,7 +65,7 @@
   position: relative;
   margin: 0 auto;
   left: -179px;
-  top: 80px;
+  top: 70px;
   background-color: hsl(0deg 0% 96.86%);
   padding: 15px 10px;
   border-radius: 5px;
@@ -78,7 +78,7 @@
   position: relative;
   margin: 0 auto;
   right: -175px;
-  top: 6px;
+  top: -5px;
   background-color: hsl(0deg 0% 96.86%);
   padding: 15px 10px;
   border-radius: 5px;
@@ -98,7 +98,7 @@
 }
 .fa-solid.fa-angle-up{
   position: absolute;
-  right: 40px;
+ right: 40px;
   top:25px;
 }
 .fa-solid.fa-chevron-down{
@@ -131,7 +131,7 @@
   padding: 15px 10px;
   border-radius: 50px;
   border: 2px rgba(177, 172, 172, 0.62) solid;
-  text-align: center;
+ text-align: center;
 }
 .label_message{
   position: absolute;
